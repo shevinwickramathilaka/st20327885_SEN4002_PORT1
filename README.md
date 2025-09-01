@@ -1,1 +1,3 @@
 # st20327885_SEN4002_PORT1
+
+Explore LK is a website project that supports foreign travelers in exploring Sri Lanka as a tourism platform. The platform has basic functions such as user registration, user login, view all destinations, book a tour, an admin part that can manage destinations, users or bookings. The system is built using PHP and MySQL using the backend and the frontend consisting of HTML, CSS and JavaScript to make the website responsive and user-friendly. The system is developed during the coursework in CMP4011 at Cardiff Metropolitan University and demonstrated the developer's ability to work full-stack through modular design, database capabilities, and user roles.
